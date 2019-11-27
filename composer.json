@@ -1,5 +1,5 @@
 {
-	"name": "LABCAT/sortablegridfield",
+	"name": "labcat/sortablegridfield",
 	"description": "Adds drag and drop functionality to SilverStripe 4.x's GridField",
 	"type": "silverstripe-vendormodule",
 	"keywords": ["silverstripe", "gridfield"],
